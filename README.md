@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Pablo Salazar Ceballos</h1>
-<h3 align="center">A passionate developer student from Colombia</h3>
+<h1 align="center">Hi, Welcome to my profile! 🐱‍👤</h1>
+<h3 align="center">I´m Juan Pablo Salazar Ceballos a passionate developer student from Colombia 💛💙❤</h3>
 
 - 🌱 I’m currently learning **React, Springboot**
 
