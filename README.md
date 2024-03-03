@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/juan pablo salazar ceballos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan pablo salazar ceballos" height="30" width="40" /></a>
-<a href="https://fb.com/juan salazar ceballos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan salazar ceballos" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/juan pablo salazar ceballos](https://www.linkedin.com/in/juan-pablo-salazar-ceballos-620140252/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan pablo salazar ceballos" height="30" width="40" /></a>
+<a href="[https://fb.com/juan salazar ceballos](https://www.facebook.com/profile.php?id=100083735701686&locale=es_LA)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan salazar ceballos" height="30" width="40" /></a>
 <a href="https://instagram.com/r4z4l4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4z4l4s" height="30" width="40" /></a>
 </p>
 
