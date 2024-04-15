@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Springboot**
 
-- 📫 How to reach me **juansalabet1@gmail.com**
+- 📫 How to reach me **devjuansalazar04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
