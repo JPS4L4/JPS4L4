@@ -6,11 +6,10 @@
 - 📫 How to reach me **devjuansalazar04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/juan-pablo-salazar-ceballos-620140252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan pablo salazar ceballos" height="30" width="40" /></a>
 <a href="https://instagram.com/jp.sc_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r4z4l4s" height="30" width="40" /></a>
 <a href="https://wa.me/3002065618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="juansalazar" height="30" width="40" /></a>
-  <a href="https://t.me/JP_Razalas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="juansalazar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
