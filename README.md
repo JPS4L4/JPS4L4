@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/juan-pablo-salazar-ceballos-620140252/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://instagram.com/jp.sc_04" target="blank">
+  <a href="https://instagram.com/juxnpxsc" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
   </a>
   <a href="https://wa.me/3002065618" target="blank">
