@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🔭 I'm currently working as an **RPA & Software Developer**, automating business processes
-- 🌱 I'm currently learning **React** and **Spring Boot**
+- 🌱 I'm currently learning **Scrapping**
 - 📊 I love turning messy data into clear dashboards with **Power BI**
 - 🎓 Studying **Data Science Engineering** at ITM (Instituto Tecnológico Metropolitano)
 - 💬 Ask me about **Python, automation (RPA), or data analysis**
