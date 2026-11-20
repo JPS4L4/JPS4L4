@@ -16,7 +16,7 @@
 - 🎓 Studying **Data Science Engineering** at ITM (Instituto Tecnológico Metropolitano).
 - 🌍 Based in Bello, Antioquia, Colombia
 - 📫 Reach me at **devjuansalazar04@gmail.com**
-- 🧩 Portfolio: [portafolio-knt9.onrender.com](https://portafolio-knt9.onrender.com)
+- 🧩 Portfolio: [https://portafolio.devjuansalazar04.workers.dev/](https://portafolio.devjuansalazar04.workers.dev/)
 
 ---
 
@@ -81,12 +81,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-pablo-salazar-ceballos-620140252/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://instagram.com/juxnpxsc" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://wa.me/573002065618" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40"/>
   </a>
   <a href="mailto:devjuansalazar04@gmail.com" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40"/>
